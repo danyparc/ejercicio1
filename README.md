@@ -4,6 +4,7 @@
 	<li>Introduccion a Git</li>
 	<li>Comandos basicos de GitHub</li>
 </ol>
+<img src="hackerman.gif">
 <ol>
 	<li>Bird</li>
 	<li>McHale</li>
